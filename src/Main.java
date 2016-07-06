@@ -1,11 +1,16 @@
-import org.lwjgl.openl.GL11;
-public class Main {
+import org.lwjgl.glfw.GLFW;
+
+
+public class Main implements Runnable{
 /*
  * Sean is a legend
  */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+	}
+	
+	public void run() {
+		
 	}
 
 }
