@@ -3,7 +3,7 @@ import org.lwjgl.glfw.GLFW;
 
 public class Main implements Runnable{
 /*
- * Sean is a legend
+ * Sean is not a legend
  */
 	public static void main(String[] args) {
 
