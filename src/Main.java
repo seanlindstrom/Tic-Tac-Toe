@@ -1,4 +1,4 @@
-
+import org.lwjgl.openl.GL11;
 public class Main {
 /*
  * Sean is a legend
